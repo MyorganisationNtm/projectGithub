@@ -1,6 +1,6 @@
-# projectGit#hub
+# projectGithub
 
-# la ligne# de Patrick
+# la ligne de Patrick
 
 # Ligne Mauclère
 
